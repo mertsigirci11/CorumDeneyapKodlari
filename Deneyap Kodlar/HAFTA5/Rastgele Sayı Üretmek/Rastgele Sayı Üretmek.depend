@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645032960 source:c:\users\mert sigirci\desktop\deneyap\kodlar\hafta5\rastgele sayý Üretmek\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
