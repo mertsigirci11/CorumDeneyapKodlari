@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645205637 source:c:\users\mert sigirci\desktop\deneyap\kodlar\hafta5\görev4\görev4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
