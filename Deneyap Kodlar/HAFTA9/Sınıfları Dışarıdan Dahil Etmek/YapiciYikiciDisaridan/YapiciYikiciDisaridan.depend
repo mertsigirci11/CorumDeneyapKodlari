@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1647451024 source:c:\users\mert sigirci\desktop\deneyap\kodlar\hafta9\sýnýflarý dýþarýdan dahil etmek\yapiciyikicidisaridan\main.cpp
+	<iostream>
+	"Dikdortgen.h"
+	"Matematik.h"
+
+1647450498 source:c:\users\mert sigirci\desktop\deneyap\kodlar\hafta9\sýnýflarý dýþarýdan dahil etmek\yapiciyikicidisaridan\src\dikdortgen.cpp
+	"Dikdortgen.h"
+
+1647450491 c:\users\mert sigirci\desktop\deneyap\kodlar\hafta9\sýnýflarý dýþarýdan dahil etmek\yapiciyikicidisaridan\include\dikdortgen.h
+	<iostream>
+
+1647451039 c:\users\mert sigirci\desktop\deneyap\kodlar\hafta9\sýnýflarý dýþarýdan dahil etmek\yapiciyikicidisaridan\include\matematik.h
+	<iostream>
+
+1647450899 source:c:\users\mert sigirci\desktop\deneyap\kodlar\hafta9\sýnýflarý dýþarýdan dahil etmek\yapiciyikicidisaridan\src\matematik.cpp
+	"Matematik.h"
+
