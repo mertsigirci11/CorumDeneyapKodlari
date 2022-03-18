@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647625051 source:c:\users\mert sigirci\desktop\deneyap\kodlar\hafta9\daireornegi\src\daire.cpp
+	"Daire.h"
+	<iostream>
+
+1647625057 c:\users\mert sigirci\desktop\deneyap\kodlar\hafta9\daireornegi\include\daire.h
+	<iostream>
+

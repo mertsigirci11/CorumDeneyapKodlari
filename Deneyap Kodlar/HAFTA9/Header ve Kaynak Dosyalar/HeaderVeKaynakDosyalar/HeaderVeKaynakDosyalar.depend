@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647623085 source:c:\users\mert sigirci\desktop\deneyap\kodlar\hafta9\header ve kaynak dosyalar\headervekaynakdosyalar\src\dikdortgen.cpp
+	"Dikdortgen.h"
+	<iostream>
+
+1647622620 c:\users\mert sigirci\desktop\deneyap\kodlar\hafta9\header ve kaynak dosyalar\headervekaynakdosyalar\include\dikdortgen.h
+	<iostream>
+
